@@ -1,4 +1,4 @@
-# pc_timer
+# PC Timer
 
 A simple countdown timer for PCs
 
